@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.center {
+    text-align: center;
+}
+
+#pageContainer{
+	position: relative;
+}
+
+#pageBtn{
+	position: absolute;
+	left:45%;
+}
+
+ul.pagination{  
+	list-style-type:none;
+}
+
+ul.pagination li{
+    display: inline-block;
+}
+
+ul.pagination a {
+    color: black;
+    float: left;
+    padding: 7px 10px;
+    text-decoration: none;
+    transition: background-color .3s;
+    /* border: 1px solid #ddd; */
+    /* margin: 0 4px; */
+    margin: 0px;
+}
+
+ul.pagination a.active {
+    background-color: #4e73df;
+    color: white;
+    border: 1px solid #4e73df;
+}
+
+ul.pagination a:hover:not(.active) {background-color: #ddd;}

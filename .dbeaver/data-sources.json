@@ -1,0 +1,86 @@
+{
+	"folders": {},
+	"connections": {
+		"mariaDB-16f6628ceda-147e741d3581508e": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "MariaDB - itmoa",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "itmoa",
+				"url": "jdbc:mysql://localhost:3306/itmoa",
+				"type": "dev"
+			}
+		},
+		"mariaDB-16f8237d97f-320a0f373e7b2883": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "MariaDB - itmoa 2",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "itmoa",
+				"url": "jdbc:mysql://localhost:3306/itmoa",
+				"type": "dev"
+			}
+		},
+		"mariaDB-16f8623eec7-3cf511c22c690e28": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "MariaDB - itmoa 3",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "itmoa",
+				"url": "jdbc:mysql://localhost:3306/itmoa",
+				"type": "dev"
+			}
+		},
+		"mariaDB-16f86a5160a-72dd0a0f8d3b9c89": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "MariaDB - itmoa 4",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "itmoa",
+				"url": "jdbc:mysql://localhost:3306/itmoa",
+				"type": "dev"
+			}
+		},
+		"mariaDB-16f88bef53d-9135ac7722c4e73": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "MariaDB - itmoa 5",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "itmoa",
+				"url": "jdbc:mysql://localhost:3306/itmoa",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}
