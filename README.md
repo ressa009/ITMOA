@@ -19,6 +19,25 @@
     - 와이어프레임
     - 스토리보드
   
+##### &nbsp; &nbsp;[프로젝트 기획 단계 산출물 샘플] <br>
+##### &nbsp; &nbsp; - 개발범위 화면목록 <br>
+<img src="https://user-images.githubusercontent.com/47082555/79634012-f1d25580-81a2-11ea-949b-d45e8261c6f5.jpg" width="45%" align="left">
+<img src="https://user-images.githubusercontent.com/47082555/79634013-f434af80-81a2-11ea-8ea5-604121029ebd.jpg" width="45%" align="left">
+
+<br><br><br><br><br><br><br><br><br>
+
+##### &nbsp; &nbsp; - 플로우차트 <br>
+<img src="https://user-images.githubusercontent.com/47082555/79634015-f860cd00-81a2-11ea-9a55-4ec6611cc98e.jpg" width="45%" align="left">
+<img src="https://user-images.githubusercontent.com/47082555/79634017-fc8cea80-81a2-11ea-988f-fa5de2fa249c.jpg" width="45%" align="left">
+
+<br><br><br><br><br><br><br><br><br>
+
+##### &nbsp; &nbsp; - 스토리보드 <br>
+<img src="https://user-images.githubusercontent.com/47082555/79634021-00207180-81a3-11ea-8e7e-b55e1674ca1a.jpg" width="45%" align="left">
+<img src="https://user-images.githubusercontent.com/47082555/79634024-00b90800-81a3-11ea-9911-e17dbaac82a4.jpg" width="45%" align="left">
+
+<br><br><br><br><br><br><br><br><br><br><br><br>  
+  
 #### <b>- 프로젝트 구현</b> <br>
      1. 학원 검색 페이지
         - 학원 전체 목록 제공
