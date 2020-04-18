@@ -93,9 +93,9 @@
 
 ---
 ## <b># DB구조(ERD)</b>
-<img src="https://user-images.githubusercontent.com/47082555/79623807-30dbb900-8159-11ea-938f-f551d2db272e.jpg" width="780px">
+<img src="https://user-images.githubusercontent.com/47082555/79623807-30dbb900-8159-11ea-938f-f551d2db272e.jpg" width="630px">
 <br><br>
-<img src="https://user-images.githubusercontent.com/47082555/79623777-13a6ea80-8159-11ea-9f17-4dfee8361af6.jpg" width="780px">
+<img src="https://user-images.githubusercontent.com/47082555/79623777-13a6ea80-8159-11ea-9f17-4dfee8361af6.jpg" width="630px">
 <br><br>
 
 
